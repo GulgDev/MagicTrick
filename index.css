@@ -39,7 +39,7 @@ body {
 .star {
     z-index: 1;
     position: absolute;
-    background-image: url(/star.png);
+    background-image: url(star.png);
     background-size: contain;
     transform: translate(-50%, -50%);
 }
